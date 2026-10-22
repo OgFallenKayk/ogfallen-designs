@@ -1,0 +1,12 @@
+{
+  "name": "ogfallen-designs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static bilingual conceptual design portfolio",
+  "scripts": {
+    "test": "node tests/verify-site.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
